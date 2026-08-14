@@ -11,7 +11,7 @@
 
 ## Hi, I'm Xerthoros.
 
-I build software products, game systems, and AI-assisted developer tools. I usually get more interested after the prototype starts working. That is when the awkward bugs, migration problems, queue behavior, and deployment failures finally show themselves.
+I build software products, blockchain systems for games, game systems, and AI-assisted developer tools. I usually get more interested after the prototype starts working. That is when the awkward bugs, migration problems, queue behavior, and deployment failures finally show themselves.
 
 I use AI agents every day because they help me move faster. Generated code still has to earn its place: I need to reproduce the behavior, review the change, and see it work outside the happy path.
 
@@ -24,6 +24,10 @@ I use AI agents every day because they help me move faster. Generated code still
 A production BYOK code-review platform for GitHub. It combines deterministic scanning with specialist AI reviewers for security, correctness, missing tests, and unnecessary code. The system runs as a TypeScript monorepo with NestJS, Next.js, PostgreSQL, Redis/BullMQ, GitHub Apps, and Railway.
 
 [Website](https://crisplint.com) · [Dashboard](https://app.crisplint.com) · [Documentation](https://crisplint.com/docs) · [Install GitHub App](https://github.com/apps/crisplint/installations/new)
+
+### Blockchain for games
+
+I write Solidity and design blockchain systems for games. My focus is the boundary between on-chain ownership and economy logic, off-chain gameplay, and the services that keep both sides in sync. Contract security, gas costs, state migrations, and failure recovery are part of the design rather than cleanup work for later.
 
 ### Systems modernization
 
@@ -53,6 +57,7 @@ I use Hermes Agent and coding agents to research, plan, implement, review, and v
   <img src="https://img.shields.io/badge/Rust-181825?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/GDScript-181825?style=flat-square&logo=godotengine&logoColor=478CBF" alt="GDScript" />
+  <img src="https://img.shields.io/badge/Solidity-181825?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/SQL-181825?style=flat-square&logo=postgresql&logoColor=61DAFB" alt="SQL" />
 </p>
 
